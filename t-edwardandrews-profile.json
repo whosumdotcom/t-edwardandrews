@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T06:09:22Z",
+  "IdClaims": [
+    {
+      "Claim": "t:edwardandrews"
+    },
+    {
+      "Claim": "gh:aldreth"
+    },
+    {
+      "Claim": "mdon:@edwardandrewshodgson@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "280b7eeba9e8e02fcc7d6247",
+    "Timestamp": "2023-04-06T06:13:06Z",
+    "Signature": "6779df628c5153234c97555c0dac01194bc6614f5357b06d30cf1e3c791b7adcc2e069277e45bd111ce0625d8c5d1b8836a15f04750e6b0db3e08990c95076cd0e06107a22f04a8d314886b7ffe7d79510e4fb0d2f7adf4ceb9df4a58fa8d28e7281e365aa0ee23060cdbeb15580967cee99f92fee75c055086c9ddea3c4d1b4e87f1f83434bd545d755d73cf1dc74746eb2994cd1f1d1ca377297b6ed3a186deb8a2b48d283ea32d645adfe34c22e21a5ce35c1523acb6ca58e90e475f87271d924f171b5f1425a4ddf10c321dacf563a43c9984070586c7de081e921c50ce3aecd7de6c9d855a82086b0b4f3b3f7ca1994c5ca3683fc9ca4cc097cd1708b5c"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "aa6c1b1836d7342429fa27634942667ec702bda920db676fca2242d307c55e1d",
+  "ContentToHash": "v1|gh:aldreth,mdon:@edwardandrewshodgson@mastodon.social,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:edwardandrews|2023-04-06T06:09:22Z"
+}
